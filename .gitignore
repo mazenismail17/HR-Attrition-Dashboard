@@ -1,0 +1,13 @@
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Power BI temporary files
+*.pbi/cache.abf
+*.pbi/localSettings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

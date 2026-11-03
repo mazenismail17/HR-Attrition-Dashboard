@@ -1,0 +1,12 @@
+Dataset: IBM HR Analytics Employee Attrition & Performance
+File: WA_Fn-UseC_-HR-Employee-Attrition.csv
+Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+Provider: Created by IBM data scientists (fictional data for practice)
+Size: 1,470 rows, 35 columns
+Accessed: November 2026
+
+The dataset is not included in this repository.
+Download it from the link above and place the CSV in this folder
+to refresh or rebuild the Power BI report.
+
+License: see the dataset page on Kaggle for its terms.
