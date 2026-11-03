@@ -182,7 +182,7 @@ HR-Attrition-Dashboard/
 
 The project is based on an HR employee attrition dataset containing 1,470 employee records.
 
-**Dataset Source:** [(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)]
+**Dataset Source:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## 💡 Business Value
 
