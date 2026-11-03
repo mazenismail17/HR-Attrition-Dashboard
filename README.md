@@ -1,5 +1,7 @@
 # HR Attrition Dashboard | Power BI
 
+![HR Attrition Dashboard Cover](images/cover.png)
+
 <p align="center">
   <b>Turning HR Data into Actionable Workforce Insights</b>
 </p>
@@ -96,15 +98,31 @@ The dashboard consists of seven interactive pages:
 
 ### Overview
 
+![Overview](images/overview.jpeg)
+
 ### Compensation Analysis
+
+![Compensation Analysis](images/compensation.jpeg)
 
 ### Attrition Analysis
 
+![Attrition Analysis](images/attrition-analysis.jpeg)
+
+### Work Environment
+
+![Work Environment](images/work-environment.jpeg)
+
 ### Recommendations
+
+![Recommendations](images/recommendations.jpeg)
 
 ### Additional Analysis
 
+![Additional Analysis](images/additional-analysis.jpeg)
+
 ### Key Influencers & Q&A
+
+![Key Influencers and Q&A](images/key-influencers.jpeg)
 
 ## ⚙️ Data Preparation & Analysis
 
@@ -130,81 +148,4 @@ The project involved the following stages:
 * Income Gap.
 * Employee Risk Classification.
 
-**4. Dashboard Development**
-
-* Interactive visualizations.
-* KPI cards.
-* Slicers and filters.
-* Page navigation.
-* Business insights and recommendations.
-
-## 🛠️ Tools & Technologies
-
-* Microsoft Power BI
-* Power Query
-* DAX (Data Analysis Expressions)
-* Data Modeling
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Business Intelligence
-
-## 🚀 How to Explore the Project
-
-1. Clone or download this repository.
-2. Locate `HR_Attrition_Dashboard.pbix`.
-3. Open the file using Microsoft Power BI Desktop.
-4. Explore the seven interactive report pages.
-
-## 📂 Repository Structure
-
-```text
-HR-Attrition-Dashboard/
-│
-├── HR_Attrition_Dashboard.pbix
-├── README.md
-├── .gitignore
-│
-├── data/
-│   └── SOURCE.txt
-│
-└── images/
-    ├── cover.png
-    ├── overview.jpeg
-    ├── compensation.jpeg
-    ├── attrition-analysis.jpeg
-    ├── recommendations.jpeg
-    ├── additional-analysis.jpeg
-    └── key-influencers.jpeg
-```
-
-## 📁 Dataset
-
-The project is based on an HR employee attrition dataset containing 1,470 employee records.
-
-**Dataset Source:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-
-## 💡 Business Value
-
-This dashboard demonstrates how data analytics can help HR teams:
-
-* Identify employee groups with higher attrition rates.
-* Understand potential drivers of employee turnover.
-* Evaluate compensation and workload patterns.
-* Support employee retention strategies.
-* Make more informed, data-driven workforce decisions.
-
-## 👨‍💻 Author
-
-**Mazen Ismail Ali**
-
-Computing & Data Science Student | Data Analyst
-
-* GitHub: [mazenismail17](https://github.com/mazenismail17)
-* LinkedIn: [www.linkedin.com/in/mazenismail17](http://www.linkedin.com/in/mazenismail17)
-
----
-
-<p align="center">
-  <i>A practical Business Intelligence project focused on transforming HR data into actionable insights.</i>
-</p>
+**4. Dashboard
